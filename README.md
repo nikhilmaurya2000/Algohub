@@ -31,7 +31,7 @@ git push
 
 **Step 4**. Here, just above the Codes you will see a "Create Pull Request" button.
 
-This would make a Pull Request to the original repository. Follow the on-screen instructions to make a successful Pull Request.
+This would make a pull request to the original repository. Follow the on-screen instructions to make a successful pull request.
 
 ## Try these topics
 
